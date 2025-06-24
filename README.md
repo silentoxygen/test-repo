@@ -1,1 +1,1 @@
-Line from measter branch & Line from feature branch
+Line from master branch 
