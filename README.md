@@ -1,1 +1,1 @@
-My first Git repository
+Line from measter branch
